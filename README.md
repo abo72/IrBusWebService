@@ -33,24 +33,24 @@ Install-Package IrBusWebService
 Currently the library supports following method:
 
 ***
-- [*] Getcode
-- [*] GetToken
-- [*] ValidateToken
-- [*] GetCities
-- [*] GetServices
-- [*] GetBusService
-- [*] BuyTicket
-- [*] InfoBuyTicket
-- [*] RefundOverviewTicket
-- [*] RefundTicket
-- [*] GetTokenAsync
-- [*] GetCitiesAsync
-- [*] GetServicesAsync
-- [*] GetBusServiceAsync
-- [*] BuyTicketAsync
-- [*] InfoBuyTicketAsync
-- [*] RefundOverviewTicketAsync
-- [*] RefundTicketAsync
+- Getcode
+- GetToken
+- ValidateToken
+- GetCities
+- GetServices
+- GetBusService
+- BuyTicket
+- InfoBuyTicket
+- RefundOverviewTicket
+- RefundTicket
+- GetTokenAsync
+- GetCitiesAsync
+- GetServicesAsync
+- GetBusServiceAsync
+- BuyTicketAsync
+- InfoBuyTicketAsync
+- RefundOverviewTicketAsync
+- RefundTicketAsync
 ***
 
 ## Easy to use
