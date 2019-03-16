@@ -113,7 +113,7 @@ This method actually refunds the ticket
 
 
 
-#### [MoreInfoAboutApi](https://bitbucket.org/keyone2693/irbuswebservice/src/master/IrBusWebService/Doc/safar724Doc.pdf)
+#### [MoreInfoAboutApi](https://github.com/keyone2693/IrBusWebService/blob/master/IrBusWebService/Doc/safar724Doc.pdf)
 
 
 
