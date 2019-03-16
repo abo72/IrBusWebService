@@ -6,7 +6,7 @@ Webservice package for iran bus api on safar724 website
 
 ## Development 
 
-### Before posting new issues: [Test samples](https://bitbucket.org/keyone2693/irbuswebservice/src/344175d760ee1c2d88a9ce9ee217304301dc6d04/ExampleTest/?at=master)
+### Before posting new issues: [Test samples](https://github.com/keyone2693/IrBusWebService/tree/master/ExampleTest)
 
 Note that: you should register on safar724 website and get your username and password to using this package
 
